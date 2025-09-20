@@ -21,7 +21,7 @@
 
 ---
 
-<!-- ====== FLASHCARDS: INTRO ====== -->
+<!-- ====== FLASHCARDS: INTRO (SHORT VERSION) ====== -->
 <div align="center">
 
 <table>
@@ -31,17 +31,12 @@
 <h3>🚀 About Me</h3>
 
 <p>
-I am an <b>academic and researcher</b> in <b>Management Information Systems (MIS)</b>, specializing in <b>Data Science, Artificial Intelligence (AI), and Natural Language Processing (NLP)</b>.  
-My work combines <b>theoretical rigor</b> with <b>practical applications</b>, focusing on AI-driven systems that generate both academic value and real-world impact.
+I am an <b>academic and researcher</b> in <b>Management Information Systems (MIS)</b>, focusing on <b>Data Science, AI, and NLP</b>.  
+My work bridges <b>theory and practice</b>, producing both scholarly contributions and <b>real-world AI solutions</b>.
 </p>
 
 <p>
-Recently, I have started exploring <b>Large Language Models (LLMs)</b> and <b>Retrieval-Augmented Generation (RAG)</b>.  
-My current projects investigate how these systems can be leveraged to support <b>academic research</b> and <b>practical problem-solving</b>, marking a transition from traditional ML/DL approaches toward <b>next-generation, context-aware AI solutions</b>.  
-</p>
-
-<p>
-My long-term vision is to <b>bridge academia and practice</b> by publishing in <b>leading journals and conferences</b> while developing <b>production-ready AI solutions</b> for <b>crisis management, digital activism, and brand reputation analysis</b>.  
+Currently, I explore <b>Large Language Models (LLMs)</b> and <b>Retrieval-Augmented Generation (RAG)</b>, aiming to enhance <b>academic research</b> and <b>decision-support systems</b>.   
 </p>
 
 </td>
@@ -50,10 +45,10 @@ My long-term vision is to <b>bridge academia and practice</b> by publishing in <
 <h3>🎯 Research Interests</h3>
 
 <ul>
-  <li><b>Artificial Intelligence & Data Science:</b> Predictive analytics, optimization, decision-support systems</li>
-  <li><b>Natural Language Processing:</b> Text mining, discourse analysis, sentiment & emotion detection</li>
-  <li><b>Digital Media & Crisis Analytics:</b> Activism signals, early warning systems, reputation management</li>
-  <li><b>Emerging Areas:</b> Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), LangChain/MCP pipelines</li>
+  <li><b>AI & Data Science:</b> Predictive analytics, optimization, decision support</li>
+  <li><b>NLP:</b> Text mining, sentiment & discourse analysis</li>
+  <li><b>Digital Media:</b> Crisis signals, early warning, reputation management</li>
+  <li><b>Emerging:</b> LLMs, RAG, LangChain/MCP pipelines</li>
 </ul>
 
 </td>
@@ -61,6 +56,7 @@ My long-term vision is to <b>bridge academia and practice</b> by publishing in <
 </table>
 
 </div>
+
 
 
 ---
