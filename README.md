@@ -63,47 +63,122 @@ I aim to bridge the gap between <b>academic research</b> and <b>real-world solut
 
 <table>
 <tr>
-<td width="25%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 
-<h4>💻 Programming Languages</h4>
+<h4>💻 Languages & Web Tech</h4>
 
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-
-</td>
-<td width="25%" align="center" valign="top">
-
-<h4>🌐 Web Technologies</h4>
-
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br/>
 <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 
 </td>
-<td width="25%" align="center" valign="top">
 
-<h4>📊 Data Science & AI</h4>
+<td width="67%" colspan="2" align="center" valign="top">
+
+<h4>📊 Data Science, AI & NLP</h4>
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<h5>ML & Data Science</h5>
 
 <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/REQUESTS-20232A?style=for-the-badge&logo=python&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/BEAUTIFULSOUP-14354C?style=for-the-badge&logo=python&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/SCRAPY-60A839?style=for-the-badge&logo=python&logoColor=white" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<h5>NLP & Transformers</h5>
+
+<img src="https://img.shields.io/badge/TRANSFORMERS-FF9E0F?style=for-the-badge&logo=huggingface&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/SPACY-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/BERTopic-6C63FF?style=for-the-badge&logo=python&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/NLTK-85C88A?style=for-the-badge&logo=python&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/GENSIM-3586FF?style=for-the-badge&logo=python&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<h5>Data Visualization</h5>
+
+<img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/SEABORN-268BD2?style=for-the-badge&logo=python&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<h5>Explainable AI</h5>
+
 <img src="https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logo=python&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/LIME-000000?style=for-the-badge&logo=python&logoColor=white" />
 
 </td>
-<td width="25%" align="center" valign="top">
+</tr>
+</table>
 
-<h4>⚙️ Tools & Platforms</h4>
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br/>
+</div>
+
+---
+
+<!-- ====== TOOLS & PLATFORMS ====== -->
+## ⚙️ Tools & Platforms
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</td>
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</td>
+</tr>
 
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/GOOGLE%20COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </td>
 </tr>
 </table>
