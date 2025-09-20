@@ -30,28 +30,38 @@
 
 <h3>🚀 About Me</h3>
 
-I am an academic and researcher in <b>Management Information Systems (MIS)</b>, with a strong focus on <b>Data Science</b>, <b>Artificial Intelligence</b>, and <b>Machine Learning</b>.  
-My expertise lies in designing <b>high-impact AI & NLP systems</b> that connect theory with practice and publish in journals & conferences while building real-world applications.
+<p>
+I am an <b>academic and researcher</b> in <b>Management Information Systems (MIS)</b>, specializing in <b>Data Science, Artificial Intelligence (AI), and Natural Language Processing (NLP)</b>.  
+My work combines <b>theoretical rigor</b> with <b>practical applications</b>, focusing on AI-driven systems that generate both academic value and real-world impact.
+</p>
 
-Recently, I have started working on <b>Large Language Models (LLMs)</b> and <b>RAG-based Systems</b>, building advanced pipelines that integrate <b>retrieval, context-aware reasoning, and explainability</b>.  
+<p>
+Recently, I have started exploring <b>Large Language Models (LLMs)</b> and <b>Retrieval-Augmented Generation (RAG)</b>.  
+My current projects investigate how these systems can be leveraged to support <b>academic research</b> and <b>practical problem-solving</b>, marking a transition from traditional ML/DL approaches toward <b>next-generation, context-aware AI solutions</b>.  
+</p>
 
-I aim to bridge the gap between <b>academic research</b> and <b>real-world solutions</b>, publishing in <b>journals, conference papers</b> while developing production-grade applications that support <b>crisis management, digital activism, and brand reputation analysis</b>.
+<p>
+My long-term vision is to <b>bridge academia and practice</b> by publishing in <b>leading journals and conferences</b> while developing <b>production-ready AI solutions</b> for <b>crisis management, digital activism, and brand reputation analysis</b>.  
+</p>
 
 </td>
 <td width="50%" valign="top">
 
 <h3>🎯 Research Interests</h3>
 
-- <b>Machine Learning & Deep Learning:</b> NLP, transfer learning, multimodal models, generative AI  
-- <b>AI & Data Science:</b> predictive modeling, optimization, evaluation  
-- <b>Digital Media & Crisis Analytics:</b> activism signals, risk detection, discourse analysis  
-- <b>Emerging:</b> LLMs, RAG, scalable LangChain/MCP-driven pipelines  
+<ul>
+  <li><b>Artificial Intelligence & Data Science:</b> Predictive analytics, optimization, decision-support systems</li>
+  <li><b>Natural Language Processing:</b> Text mining, discourse analysis, sentiment & emotion detection</li>
+  <li><b>Digital Media & Crisis Analytics:</b> Activism signals, early warning systems, reputation management</li>
+  <li><b>Emerging Areas:</b> Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), LangChain/MCP pipelines</li>
+</ul>
 
 </td>
 </tr>
 </table>
 
 </div>
+
 
 ---
 
