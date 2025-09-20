@@ -31,7 +31,7 @@
 <h3>🚀 About Me</h3>
 
 I am an academic and researcher in <b>Management Information Systems (MIS)</b>, with a strong focus on <b>Data Science</b>, <b>Artificial Intelligence</b>, and <b>Machine Learning</b>.  
-My expertise lies in designing <b>explainable, ethical, and high-impact AI systems</b> that connect theory with practical applications.  
+My expertise lies in designing <b>high-impact AI & NLP systems</b> that connect theory with practice and publish in journals & conferences while building real-world applications.
 
 Recently, I have started working on <b>Large Language Models (LLMs)</b> and <b>RAG-based Systems</b>, building advanced pipelines that integrate <b>retrieval, context-aware reasoning, and explainability</b>.  
 
@@ -42,11 +42,10 @@ I aim to bridge the gap between <b>academic research</b> and <b>real-world solut
 
 <h3>🎯 Research Interests</h3>
 
-- <b>Artificial Intelligence & Data Science:</b> statistical learning, predictive modeling, high-dimensional analytics  
-- <b>Machine Learning & Deep Learning:</b> NLP, transfer learning, multimodal models, generative AI applications  
-- <b>Explainable & Ethical AI:</b> SHAP, LIME, model transparency, AI governance frameworks  
-- <b>Digital Media & Crisis Analytics:</b> activism signals, risk detection, discourse analysis across social platforms  
-- <b>Emerging Directions:</b> LLM architectures, RAG pipelines, scalable LangChain-based frameworks  
+- <b>Machine Learning & Deep Learning:</b> NLP, transfer learning, multimodal models, generative AI  
+- <b>AI & Data Science:</b> predictive modeling, optimization, evaluation  
+- <b>Digital Media & Crisis Analytics:</b> activism signals, risk detection, discourse analysis  
+- <b>Emerging:</b> LLMs, RAG, scalable LangChain/MCP-driven pipelines  
 
 </td>
 </tr>
@@ -59,84 +58,59 @@ I aim to bridge the gap between <b>academic research</b> and <b>real-world solut
 <!-- ====== FLASHCARDS: TECH STACK ====== -->
 ## ⚡ Tech Stack & Expertise
 
-<div align="center">
+<p align="center">
 
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
+<!-- Languages & Web Tech -->
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-<h4>💻 Languages & Web Tech</h4>
+<br/>
 
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
-<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br/>
-<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<!-- ML & Data Science -->
+<img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBOOST-EB5E28?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LIGHTGBM-4CBB17?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/CATBOOST-FF6F20?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/UMAP-4169E1?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HDBSCAN-9932CC?style=for-the-badge&logo=python&logoColor=white"/>
 
-</td>
+<br/>
 
-<td width="67%" colspan="2" align="center" valign="top">
+<!-- NLP & Transformers -->
+<img src="https://img.shields.io/badge/TRANSFORMERS-FF9E0F?style=for-the-badge&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPACY-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/BERTopic-6C63FF?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLTK-85C88A?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/GENSIM-3586FF?style=for-the-badge&logo=python&logoColor=white"/>
 
-<h4>📊 Data Science, AI & NLP</h4>
+<br/>
 
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
+<!-- Data Visualization & XAI -->
+<img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SEABORN-268BD2?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LIME-000000?style=for-the-badge&logo=python&logoColor=white"/>
 
-<h5>ML & Data Science</h5>
+<br/>
 
-<img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/REQUESTS-20232A?style=for-the-badge&logo=python&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/BEAUTIFULSOUP-14354C?style=for-the-badge&logo=python&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/SCRAPY-60A839?style=for-the-badge&logo=python&logoColor=white" />
+<!-- Web Scraping -->
+<img src="https://img.shields.io/badge/REQUESTS-20232A?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/BEAUTIFULSOUP-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/SCRAPY-60A839?style=for-the-badge&logo=python&logoColor=white"/>
 
-</td>
-<td width="50%" align="center" valign="top">
-
-<h5>NLP & Transformers</h5>
-
-<img src="https://img.shields.io/badge/TRANSFORMERS-FF9E0F?style=for-the-badge&logo=huggingface&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/SPACY-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/BERTopic-6C63FF?style=for-the-badge&logo=python&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/NLTK-85C88A?style=for-the-badge&logo=python&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/GENSIM-3586FF?style=for-the-badge&logo=python&logoColor=white" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-
-<h5>Data Visualization</h5>
-
-<img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/SEABORN-268BD2?style=for-the-badge&logo=python&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<h5>Explainable AI</h5>
-
-<img src="https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logo=python&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/LIME-000000?style=for-the-badge&logo=python&logoColor=white" />
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-</div>
+</p>
 
 ---
 
@@ -214,6 +188,6 @@ I aim to bridge the gap between <b>academic research</b> and <b>real-world solut
 
 <div align="center">
   
-✨ <i>Advancing ethical and explainable AI — connecting academic rigor with real-world impact.</i>
+✨ <i>Advancing AI, ML & NLP — connecting academic rigor with impactful real-world solutions.</i>
 
 </div>
